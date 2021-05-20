@@ -1,2 +1,2 @@
 # stock-management
-# Stock management app written with quasa
+# Stock management app written with quasar
